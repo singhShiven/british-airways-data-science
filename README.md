@@ -29,4 +29,27 @@ British Airways wants to better understand customer feedback and predict what fa
 
 ---
 
+---
+
+## ✅ Outcome
+
+- Gained practical insight into how airlines use data science.
+- Developed a working predictive model using real-world customer review data.
+- Practiced end-to-end data science workflow from EDA to model interpretation.
+
+---
+
+## 🔗 Project Status
+
+✅ Completed — July 2025  
+📦 Jupyter Notebook available in this repo  
+📄 Certificate available upon request
+
+---
+
+## 🧑‍💼 Author
+
+**Shivendra Singh**  
+[LinkedIn](https://www.linkedin.com/in/shivendra-singh-645a7a258) • [Portfolio](https://shivendra-data-scientist-portfolio.lovable.app/) • [GitHub](https://github.com/singhShiven)
+
 
